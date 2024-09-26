@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://raw.githubusercontent.com/avipatilpro/avipatilpro/master/Hi.gif" width="48"></a> , I'm RAFIK SHAH</h1>
+<h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://raw.githubusercontent.com/avipatilpro/avipatilpro/master/Hi.gif" width="48"></a> , I'm Prabhat Jha</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Engineer;Full-Stack+Developer;Cloud+Engineer;AI+Engineer;YouTuber;Streamer;Editor;" alt="Typing SVG" />
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  Technical Trainer | Coder | Tech Enthusiast
+  Blockchain Learner | Coder | Tech Enthusiast
 </p>
 
 <div align="center">
@@ -52,7 +52,7 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud Computing, Artificial Intelligence/Machine Learning, and high-quality streaming technologies. With a proven track record of driving innovation, I am committed to leveraging advanced AI solutions to boost productivity and foster creative problem-solving in technology. My passion for pushing the boundaries of modern technology equips me to deliver exceptional results in complex and dynamic environments.
+👋 Hi there! I'm a passionate Blockchain Learner, Coder, and Tech Enthusiast. I love exploring the world of decentralized technologies and building innovative solutions. Whether it’s writing smart contracts or diving into new programming languages, I’m always eager to expand my skills and collaborate on exciting projects. Let’s connect and create something amazing together!
 
 <h3 align="center">Git Stats</h3>
 <div align="center">
